@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/one/one",
+    "pages/index/index",
+    "pages/simpleDemo/simple",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "微信小程序Mqtt",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

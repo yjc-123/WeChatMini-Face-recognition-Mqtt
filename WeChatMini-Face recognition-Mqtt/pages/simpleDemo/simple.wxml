@@ -1,0 +1,28 @@
+<view class="page">
+
+  <view class="page__bd page__bd_spacing">
+    <button class="weui-btn" type="primary" bindtap='onClick_connect'>连接服务器</button>
+  </view>
+
+ <view>
+  <view class='view_1'>
+    <text>利川</text>
+  </view>
+  <view class='view_2'>
+    <switch type="switch" checked="true" bindchange="listenerSwitch"/>
+  </view>
+  <view>
+
+
+  </view>
+  <view class='view_3'>
+    <text>凉雾</text>
+  </view>
+  <view class='view_4'>
+    <switch type="switch" checked="true" bindchange="listenerSwitch_1"/>
+  </view>
+ </view>
+  
+
+
+</view>

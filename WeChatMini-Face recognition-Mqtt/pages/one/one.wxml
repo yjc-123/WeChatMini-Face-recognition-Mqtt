@@ -1,0 +1,10 @@
+<!--pages/one/one.wxml-->
+
+<!-- <view bindtap="token"><button type="primary"> 请进行配对 </button></view>
+<view>  {{resData.access_token}},{{toke}}</view> -->
+<camera device-position="front" flash="off" binderror="error" style="width:  100%; height: 380px; border-radius:50%;align-items: center;display: flex;"></camera>
+<button type="primary" bindtap="takePhoto">拍照</button>
+<block wx:if="{{msg.score > 80}}">
+  <view wx:if="{{msg.score > 80}}">"此人是:"{{msg.user_id}}</view>
+  <view wx:else>此人不认识</view>
+</block>

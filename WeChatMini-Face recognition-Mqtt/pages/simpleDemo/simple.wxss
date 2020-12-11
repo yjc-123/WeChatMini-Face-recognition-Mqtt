@@ -1,0 +1,52 @@
+.button-sp-area{
+    margin: 0 auto;
+    padding-top: 15px;
+    width: 60%;
+}
+.mini-btn{
+    margin-right: 5px;
+}
+
+.page__bd{
+  margin-top: 80px;
+}
+
+.view_1 {
+  width: 200rpx;
+  height: 100rpx;
+  background: white;
+  color: black;
+  top: 70px;
+  left: 70px;
+  position: relative;
+}
+
+.view_2 {
+  width: 200rpx;
+  height: 100rpx;
+  background: while;
+  color: white;
+  top: 25px;
+  left: 250px;
+  position: relative;
+}
+
+.view_3 {
+  width: 200rpx;
+  height: 100rpx;
+  background: white;
+  color: black;
+  top: 120px;
+  left: 70px;
+  position: relative;
+}
+
+.view_4 {
+  width: 200rpx;
+  height: 100rpx;
+  background: while;
+  color: white;
+  top: 75px;
+  left: 250px;
+  position: relative;
+}

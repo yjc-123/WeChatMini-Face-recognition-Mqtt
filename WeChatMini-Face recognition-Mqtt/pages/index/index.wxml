@@ -1,0 +1,9 @@
+<view class="page">
+
+  <view class="page__bd page__bd_spacing">
+    <button class="weui-btn" type="primary" bindtap='onClick_Simple'>简单使用连接Mqtt服务器</button>
+  
+  </view>
+
+
+</view>
